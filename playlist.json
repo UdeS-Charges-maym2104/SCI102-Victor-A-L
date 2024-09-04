@@ -1,18 +1,24 @@
 "_comment" : "entrez vos chansons preferees dans la liste ci-dessous. Suivez les premieres entrees comme exemple"
 {
 	"playlist": [
-		{ 
+		{
 			"titre": "Citizen Erased",
 			"artiste": "Muse",
 			"album": "Origin of Symetry",
 			"année": 2001,
 			"url": "https://www.youtube.com/watch?v=KScEW5a_KGY"
 		},
-		{ 
+		{
 			"titre": "Milord",
-			"artiste": "Edith Piaf",
+			"artiste": "Piaf Edith",
 			"année": 1959,
 			"url": "https://www.youtube.com/watch?v=GZR8QCmWmwM"
 		},
+		{
+			"titre": "Don't stop me now'",
+			"artiste": "queen",
+			"année": 1979,
+			"url": "https://www.youtube.com/watch?v=GZR8QCmWmwM"
+		}
 	]
 }
